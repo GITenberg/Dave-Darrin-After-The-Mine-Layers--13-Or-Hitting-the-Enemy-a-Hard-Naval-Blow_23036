@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2034
     wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23036#Dave-Darrin-After-The-Mine-Layers--13-Or-Hitting-the-Enemy-a-Hard-Naval-Blow
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-10-14'
 gutenberg_type: Text
