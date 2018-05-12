@@ -1,0 +1,30 @@
+_repo: Dave-Darrin-After-The-Mine-Layers--13-Or-Hitting-the-Enemy-a-Hard-Naval-Blow_23036
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 23036-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Hancock, H. Irving (Harrie Irving)
+    alias: Hancock, Harrie Irving
+    birthdate: 1868
+    deathdate: 1922
+    gutenberg_agent_id: '2034'
+    url: http://www.gutenberg.org/2009/agents/2034
+    wikipedia: http://en.wikipedia.org/wiki/H._Irving_Hancock
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-10-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23036'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Navy -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Mines (Military explosives) -- Juvenile fiction'
+title: Dave Darrin After the Mine Layers; Or, Hitting the Enemy a Hard Naval Blow
+url: http://www.gutenberg.org/ebooks/23036
